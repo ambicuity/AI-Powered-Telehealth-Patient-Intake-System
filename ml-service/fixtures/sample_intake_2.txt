@@ -1,0 +1,53 @@
+PATIENT INTAKE FORM
+
+Name: Maria Rodriguez
+DOB: 12/08/1975
+Address: 123 Main Street, Anytown, ST 12345
+
+Insurance: Cigna Healthcare
+Policy Number: CIG987654321
+
+Reason for Visit: Annual wellness exam and follow-up
+
+Present Illness:
+Patient reports feeling generally well. Came in for routine annual physical. 
+Has been managing diabetes well with diet and medication.
+
+Medications:
+- Metformin 500mg twice daily
+- Lisinopril 10mg daily  
+- Atorvastatin 20mg nightly
+- Aspirin 81mg daily
+
+Allergies:
+- Sulfa drugs (causes hives)
+- Codeine (nausea and vomiting)
+
+Vitals (self-reported):
+- Weight: 165 lbs
+- Height: 5'4"
+- Blood pressure: Usually around 130/80
+
+Review of Systems:
+- No chest pain or shortness of breath
+- No abdominal pain
+- No urinary symptoms
+- Occasional mild joint stiffness in knees
+- Sleep quality is good (7-8 hours nightly)
+
+Past Medical History:
+- Type 2 Diabetes (diagnosed 2018)
+- Hypertension (diagnosed 2016)  
+- High cholesterol (diagnosed 2019)
+- Appendectomy (1995)
+
+Screening History:
+- Last mammogram: 2022 (normal)
+- Last colonoscopy: 2020 (normal, next due 2030)
+- Last Pap smear: 2022 (normal)
+
+Habits:
+- Never smoked
+- Drinks wine occasionally (1-2 glasses per week)
+- Exercises regularly (walking, yoga)
+- Diet: Following diabetic diet recommendations
