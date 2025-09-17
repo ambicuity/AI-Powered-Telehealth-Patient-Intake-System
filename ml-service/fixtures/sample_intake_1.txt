@@ -1,0 +1,49 @@
+Patient: John Smith
+Date of Birth: 03/15/1988
+Phone: (555) 123-4567
+Email: john.smith@email.com
+
+Insurance Information:
+Provider: Aetna
+Member ID: ABC123456789
+Group Number: 12345
+
+Chief Complaint: Recurring headaches and dizziness
+
+Current Symptoms:
+- Severe headaches (daily for past 2 weeks)
+- Dizziness when standing
+- Nausea in the morning
+- Sensitivity to bright lights
+- Fatigue
+
+Current Medications:
+- Ibuprofen 400mg as needed for headaches
+- Vitamin D 1000 IU daily
+- Multivitamin daily
+
+Known Allergies:
+- Penicillin (causes rash)
+- Shellfish (anaphylaxis)
+- Latex (skin irritation)
+
+Medical History:
+- Hypertension (diagnosed 2020)
+- Seasonal allergies
+- Wisdom teeth removal (2019)
+
+Family History:
+- Father: Heart disease, diabetes
+- Mother: Migraines, breast cancer
+- Siblings: None known
+
+Social History:
+- Non-smoker
+- Occasional alcohol use (1-2 drinks per week)
+- Regular exercise (3x per week)
+- Office worker (desk job)
+
+Emergency Contact:
+Name: Sarah Smith (spouse)
+Phone: (555) 123-4568
+Relationship: Wife
